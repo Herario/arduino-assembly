@@ -7,6 +7,4 @@ void setup()
 
 void loop()
 {
-    //led(0);
-    //led(1);
 }
